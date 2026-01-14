@@ -219,7 +219,6 @@ az databricks workspace create ...
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
-*Data Science Graduate | Azure Data & AI Specialist*
+**Thathsara Rajapaksha**  
+*Data Science Graduate*
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
