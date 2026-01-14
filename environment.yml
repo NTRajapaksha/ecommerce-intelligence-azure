@@ -1,0 +1,12 @@
+name: olist-recsys-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - azureml-defaults
+    - mlflow
+    - pyspark==3.3.0
+    - numpy
+    - pandas
